@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   companies in the EU dedicated to solve the pressing challenges in IoT (Internet
   of Things). The platform emphasizes open standards, in-built security, extensibility,
   REST principles and application development
-baseurl: "/activ8-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
